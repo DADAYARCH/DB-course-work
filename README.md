@@ -1,2 +1,2 @@
-# DB-course-work
-Курсовая работа ИСБД
+# DB_course_work
+Course work for databases
